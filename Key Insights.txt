@@ -1,0 +1,7 @@
+## Key Insights
+
+1. The USA had the highest number of total cases by the end of the dataset period.
+2. India had a massive vaccination drive starting mid-2021.
+3. Kenya's vaccination rollout was slower compared to USA and India.
+4. Death rate stabilized over time for all 3 countries.
+5. A noticeable rise in cases occurred globally around mid-2021.
